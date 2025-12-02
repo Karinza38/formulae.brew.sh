@@ -14,5 +14,5 @@ gem "rake"
 
 group :test do
   gem "html-proofer"
-  gem "mdl"
+  gem "mdl", ">= 0.14.0"
 end
