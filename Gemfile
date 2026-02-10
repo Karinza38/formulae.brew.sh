@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 ruby file: ".ruby-version"
 
-gem "faraday-retry"
+gem "faraday-retry", ">= 2.3.0"
 gem "jekyll"
 gem "jekyll-redirect-from"
 gem "jekyll-remote-theme"
